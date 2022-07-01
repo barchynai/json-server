@@ -1,0 +1,41 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Video Course 1. Name tag",
+      "description": "Explore the evolution of the Education industry from ancient civilizations to new frontiers of convergence integrating latest trends. Study the industry from an international perspective, with emphasis on current business models and positioning for future must-haves.\nUnderstand the definition and market segmentation of categories including IT, Design, Marketing, Sales and lifestyle management programs, and examine industry trends and employment opportunities. ",
+      "duration": "1h 28 min",
+      "creation": "9 Nov, 2018"
+    },
+    {
+      "id": 2,
+      "title": "Video Course 2. Name tag",
+      "description": "Explore the evolution of the Education industry from ancient civilizations to new frontiers of convergence integrating latest trends. Study the industry from an international perspective, with emphasis on current business models and positioning for future must-haves. Understand the definition and market segmentation of categories including IT, Design, Marketing, Sales and lifestyle management programs, and examine industry trends and employment opportunities.",
+      "duration": "1h 28 min",
+      "creation": "9 Nov, 2018"
+    },
+    {
+      "id": 3,
+      "title": "Video Course 3. Name tag",
+      "description": "Explore the evolution of the Education industry from ancient civilizations to new frontiers of convergence integrating latest trends. Study the industry from an international perspective, with emphasis on current business models and positioning for future must-haves. Understand the definition and market segmentation of categories including IT, Design, Marketing, Sales and lifestyle management programs, and examine industry trends and employment opportunities.",
+      "duration": "1h 28 min",
+      "creation": "9 Nov, 2018"
+    },
+    {
+      "id": 5,
+      "title": "Test Course Edited",
+      "description": "Explore the evolution of the Education industry from ancient civilizations to new frontiers of convergence integrating latest trends. Study the industry from an international perspective, with emphasis on current business models and positioning for future must-haves. Understand the definition and market segmentation of categories including IT, Design, Marketing, Sales and lifestyle management programs, and examine industry trends and employment opportunities.",
+      "duration": "45",
+      "creation": "2022-07-30",
+      "authors": "hfgjdhfgsh"
+    },
+    {
+      "id": 6,
+      "title": "Test Course 4",
+      "description": "Explore the evolution of the Education industry from ancient civilizations to new frontiers of convergence integrating latest trends. Study the industry from an international perspective, with emphasis on current business models and positioning for future must-haves. Understand the definition and market segmentation of categories including IT, Design, Marketing, Sales and lifestyle management programs, and examine industry trends and employment opportunities.",
+      "duration": "1h 35mins",
+      "creation": "2022-07-14",
+      "authors": "hjahfgajh"
+    }
+  ]
+}
